@@ -1,0 +1,37 @@
+div {
+  background-color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+.helpful-tip {
+  text-align: center;
+}
+
+.tag-line {
+  background-color: black;
+}
+
+.hour-box {
+  background-color: red;
+}
+
+img {
+  max-width: 300px;
+}
+
+/* input[type="text"] {
+  background: transparent;
+  border: none;
+  outline: none;
+  text-align: center
+} */
+.schedule-table {
+  margin: 10rem;
+}
+/* .schedule-table-div {
+  width: fit-content;
+}
+*/
